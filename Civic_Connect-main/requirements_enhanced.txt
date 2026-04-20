@@ -1,0 +1,18 @@
+# Your existing requirements
+streamlit
+ultralytics
+torch
+torchvision
+pillow
+numpy
+pandas
+
+# NEW: Additional ML dependencies
+scikit-learn
+plotly
+textblob
+seaborn
+matplotlib
+folium
+streamlit-folium
+joblib
